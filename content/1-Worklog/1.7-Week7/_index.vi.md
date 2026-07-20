@@ -1,59 +1,26 @@
 ---
 title: "Worklog Tuần 7"
-date: 2024-01-01
-weight: 1
+date: 2026-01-01
+weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 7:
-
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Thực hành triển khai ứng dụng cơ bản lên máy chủ ảo Amazon EC2.
+* Làm quen với trình soạn thảo trực tuyến Cloud9 và trải nghiệm dịch vụ lưu trữ Web tĩnh (Static Website Hosting) trên Amazon S3.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Tham gia buổi họp và hoạt động định kỳ tại văn phòng công ty. | 01/06/2026 | 01/06/2026 | |
+| 3 | - Nghiên cứu hướng dẫn cơ bản (Getting Started) và triển khai một web server đơn giản trên Amazon EC2. | 02/06/2026 | 04/06/2026 | |
+| 4 | - Tìm hiểu giải pháp bảo mật trung gian giúp ứng dụng kết nối tài nguyên AWS an toàn thông qua IAM Role. | 03/06/2026 | 05/06/2026 | |
+| 5 | - Trải nghiệm môi trường lập trình trực tuyến trên nền trình duyệt bằng AWS Cloud9. | 04/06/2026 | 05/06/2026 | |
+| 6 | - Thực hành phân phối và lưu trữ web app dạng tĩnh (Static Website Hosting) sử dụng dịch vụ Amazon S3. | 05/06/2026 | 06/06/2026 | |
 
 ### Kết quả đạt được tuần 7:
-
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Deploy thành công mã nguồn Web Server lên EC2, cấu hình Inbound Rules cho phép người dùng bên ngoài truy cập qua cổng HTTP (Port 80).
+* Hiểu cách liên kết bảo mật không cần lộ mã bảo mật (credentials) bằng cách gắn trực tiếp IAM Role vào máy chủ ảo.
+* Biết cách sử dụng môi trường lập trình AWS Cloud9 để chỉnh sửa code trực tiếp từ trình duyệt web.
+* Triển khai hoàn chỉnh tính năng Static Website Hosting trên S3 bucket, cấu hình Bucket Policy cấp quyền truy cập Public cho tệp tin HTML/CSS.

@@ -1,58 +1,28 @@
 ---
 title: "Worklog Tuần 12"
-date: 2024-01-01
-weight: 2
+date: 2026-01-01
+weight: 12
 chapter: false
 pre: " <b> 1.12 </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 ### Mục tiêu tuần 12:
-
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Hoàn thiện cuốn Báo cáo thực tập tốt nghiệp và tài liệu bàn giao dự án.
+* Biên tập đầy đủ các bài viết định dạng Markdown cho Website Workshop cá nhân và deploy trực tiếp lên AWS.
+* Chuẩn bị Slide thuyết trình, hoàn thành đánh giá thực tập và kết thúc kỳ thực tập thành công.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Tiến hành ghép nối báo cáo cá nhân vào tài liệu tổng của nhóm, căn chỉnh định dạng (formatting) chuẩn quy định. | 06/07/2026 | 08/07/2026 | Báo cáo hoàn chỉnh |
+| 3 | - Đóng gói mã nguồn dự án LunaGenZ, kiểm tra và bảo trì hệ thống chạy trực tiếp trên AWS để chuẩn bị nghiệm thu. | 07/07/2026 | 09/07/2026 | GitHub & AWS |
+| 4 | - Biên soạn chi tiết các trang hướng dẫn Markdown cho website Workshop cá nhân và chạy thử nghiệm cục bộ. | 08/07/2026 | 10/07/2026 | Nền tảng Hugo / Static Site |
+| 5 | - Triển khai thực tế website Workshop cá nhân lên cloud, rà soát lại toàn bộ liên kết (links) và giao diện. | 09/07/2026 | 11/07/2026 | AWS S3 / CloudFront |
+| 6 | - Chuẩn bị slide thuyết trình, kịch bản demo sản phẩm LunaGenZ và hoàn thiện phiếu tự đánh giá thực tập. | 10/07/2026 | 11/07/2026 | Slide mẫu & Biểu mẫu trường |
+| 8 | - Thực hiện nộp báo cáo tổng hợp, phiếu đánh giá đã ký và cập nhật link website Workshop cá nhân lên hệ thống công ty. | 12/07/2026 | 12/07/2026 | Cổng thông tin nội bộ |
 
 ### Kết quả đạt được tuần 12:
-
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Hoàn thành 100% cuốn Báo cáo thực tập tốt nghiệp được kiểm duyệt chất lượng cao, căn chỉnh lề và tiêu chuẩn học thuật chính xác.
+* Deploy thành công trang web hướng dẫn kỹ thuật (Workshop cá nhân) lên nền tảng đám mây AWS sử dụng S3 và tăng tốc truyền tải nội dung với CDN Amazon CloudFront.
+* Thiết kế slide báo cáo sinh động, hoàn tất kịch bản thuyết trình chạy thử nghiệm suôn sẻ.
+* Được đại diện công ty ký nhận phiếu đánh giá thực tập loại tốt, chính thức hoàn thành chặng đường thực tập 12 tuần thành công tốt đẹp.

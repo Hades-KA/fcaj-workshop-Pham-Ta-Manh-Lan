@@ -1,58 +1,25 @@
 ---
 title: "Worklog Tuần 6"
-date: 2024-01-01
-weight: 1
+date: 2026-01-01
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 6:
-
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tìm hiểu phương pháp kiểm soát và tối ưu ngân sách AWS thông qua công cụ AWS Budgets.
+* Nghiên cứu dịch vụ quản lý định danh AWS IAM, thực hành tạo User, Group và phân chia Role bảo mật cho các tài nguyên.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Lên làm việc trực tiếp tại văn phòng công ty theo kế hoạch. | 25/05/2026 | 25/05/2026 | |
+| 3 | - Tham gia giao lưu hoạt động kết nối nội bộ được tổ chức trực tiếp tại văn phòng. | 26/05/2026 | 26/05/2026 | |
+| 4 | - Tìm hiểu phương pháp tối ưu hóa ngân sách và giám sát hóa đơn điện toán đám mây bằng AWS Budgets. | 27/05/2026 | 29/05/2026 | https://000007.awsstudygroup.com/vi |
+| 5 | - Nghiên cứu dịch vụ quản lý định danh và truy cập AWS IAM để thiết lập đặc quyền bảo mật. | 28/05/2026 | 30/05/2026 | |
+| 6 | - Thực hành phân bổ quyền hạn (Khởi tạo IAM User, Group, Role) phân quyền cho các dịch vụ khác nhau. | 29/05/2026 | 30/05/2026 | |
 
 ### Kết quả đạt được tuần 6:
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Biết cách thiết lập ngưỡng cảnh báo chi tiêu AWS Budgets tự động gửi email thông báo khi chi phí chạm ngưỡng 80% định mức.
+* Nắm vững triết lý bảo mật "Least Privilege" (Đặc quyền tối thiểu) trong phân quyền người dùng.
+* Cấu hình thành công bộ khung bảo mật IAM gồm: User quản trị, Nhóm phát triển, và các IAM Role cho phép EC2 có quyền truy cập trực tiếp vào Storage.

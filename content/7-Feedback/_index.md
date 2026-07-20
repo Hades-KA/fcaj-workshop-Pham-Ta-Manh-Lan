@@ -1,47 +1,29 @@
 ---
 title: "Sharing and Feedback"
-date: 2024-01-01
+date: 2026-01-01
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
+> Here you can freely share your personal feedback and experiences while participating in the First Cloud Journey program. This will help the FCJ team improve and address any shortcomings based on the following categories:
 
 ### Overall Evaluation
 
 **1. Working Environment**  
-The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment at FCJ is highly tech-driven, dynamic, and professional. I had the opportunity to experience the real-world workflow of a leading Cloud organization. The pace is fast but without negative pressure. *Small suggestion:* I hope FCJ can organize more cross-sharing sessions where interns can present their project architectures to each other.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+**2. Mentor & Team Admin Support**  
+The Mentors are incredibly dedicated and possess deep technical expertise. What I appreciate most is that Mentors never just hand out the "answers." Instead, they guide me on how to read AWS Documentation to find the root cause and troubleshoot issues myself. As for the Admin Team, procedures and resource access (like AWS Accounts) were provided very promptly.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+**3. Alignment with Major/Field of Study**  
+The FCJ program is the perfect missing puzzle piece for my university curriculum. At university, I was trained deeply in coding (Frontend/Backend), but thanks to this internship, I finally learned how to deploy those applications to the Cloud securely, scalably, and cost-effectively.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+**4. Opportunities for Learning & Skill Development**  
+This internship truly pushed me out of my comfort zone. Not only did I learn how to use core AWS services (VPC, EC2, S3...), but I also developed a strong System Design mindset. In addition, my soft skills, such as writing technical reports (creating workshops) and using specialized technical English, have significantly improved.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**5. Culture & Teamwork**  
+The culture of "continuous learning and sharing" is highly evident here. Even as an intern, my technical proposals for the project were always listened to and respected. Everyone shares knowledge openly on the AWS Study Group community, making me feel like an integral part of the team.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
-
----
-
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
-
----
-
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+**6. Policies & Benefits for Interns**  
+The flexible internship schedule is a huge plus, allowing students like me to balance university classes and project work. Being provided with hands-on practical environments (Labs, testing resources) by the company is an invaluable support that makes me much more confident as I prepare to enter my actual career path.

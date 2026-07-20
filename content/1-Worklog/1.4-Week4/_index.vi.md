@@ -1,59 +1,26 @@
 ---
 title: "Worklog Tuần 4"
-date: 2024-01-01
-weight: 1
+date: 2026-01-01
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 4:
-
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tìm hiểu các kết nối mạng doanh nghiệp (VPN, Direct Connect) và giải pháp cân bằng tải (ELB).
+* Hoàn thiện cấu hình định tuyến Internet qua Internet Gateway và NAT Gateway cho mạng Private Subnet.
+* Hoàn tất thủ tục thực tập và bắt đầu làm quen với văn hóa làm việc trực tiếp tại văn phòng.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Học Module 02-03: Khảo sát các giải pháp kết nối (VPN, DirectConnect) và điều phối tải (Load Balancer). | 11/05/2026 | 13/05/2026 | https://www.youtube.com/watch?v=CXU8D3kyxIc&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=27 |
+| 3 | - Nghiên cứu sâu Module 02-Lab03-01: Các thành phần cốt lõi của Amazon VPC, Subnets, bảng định tuyến (Route Table). | 12/05/2026 | 14/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 4 | - Tìm hiểu cơ chế cấu hình định tuyến thông qua cổng Internet Gateway (IGW) và thiết bị NAT Gateway. | 13/05/2026 | 15/05/2026 | https://000003.awsstudygroup.com/vi/1-introduce/1.3-internetgateway |
+| 5 | - Thực hiện khai báo thông tin và đăng ký lịch biểu làm việc trực tiếp tại trụ sở văn phòng. | 14/05/2026 | 14/05/2026 | |
+| 6 | - Bắt đầu ngày trải nghiệm và làm việc trực tiếp đầu tiên tại văn phòng. | 15/05/2026 | 15/05/2026 | |
 
 ### Kết quả đạt được tuần 4:
-
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Nắm vững nguyên lý hoạt động của Classic Load Balancer, Application Load Balancer và Network Load Balancer.
+* Phân biệt rõ cách thức chuyển tiếp dữ liệu an toàn từ Private Subnet ra ngoài Internet bằng NAT Gateway so với Internet Gateway.
+* Hoàn tất các thủ tục onboard công ty, làm quen với không gian làm việc và đồng nghiệp tại văn phòng.
