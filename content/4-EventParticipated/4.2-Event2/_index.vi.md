@@ -1,7 +1,7 @@
 ---
 title: "Event 2"
 date: 2026-06-06
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
@@ -77,4 +77,4 @@ Tham gia sự kiện "Meeting 06/6" giúp tôi mở rộng tầm nhìn về vi�
 - **Định hướng nghề nghiệp:** Câu chuyện từ Helpdesk lên Senior Sysadmin đã truyền cảm hứng rất lớn, giúp tôi nhận ra tầm quan trọng của việc xây dựng năng lực qua các dự án thực tế.
 - **Kỹ năng mềm:** Các quy tắc về làm việc nhóm hiệu quả là hành trang không thể thiếu trong các dự án công nghệ phức tạp.
 
-
+![Ảnh meeting 13/06](/images/meeting13-06.png)

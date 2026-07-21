@@ -6,84 +6,83 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Summary Report: “Meeting 30/5”
+# Summary Report: "Meeting 30/5"
 
 ### Event Objectives
 
-- Share best practices in the workplace and professional environments.
-- Introduce methods to overcome laziness and build confidence at work.
-- Guide effective ways to learn and practice AWS.
-- Introduce the "Tử Vi Đại Việt" astrology platform.
+- Share best practices for work and the working environment
+- Introduce methods for overcoming laziness and building confidence at work
+- Introduce how to learn AWS
+- Introduce the "Tu Vi Dai Viet" (Great Vietnam Astrology) website
 
 ### Speakers
 
-- **Trần Minh Quân** - The Hidden Iceberg of a Project: DevOps Before Disaster
-- **Trần Hữu Nghĩa** - A comprehensive astrology platform for the new generation, combining traditional knowledge with modern technology
-- **Phạm Quang Thái** - How Cloud Architecture Powers Modern Multiplayer Games
-- **Nguyễn Thị Quỳnh Như** - Why We Always Need Confidence
-- **Khắc Uy** - The Iceberg of Procrastination When "Laziness" Is Just the Tip of Fear
-- **Huỳnh Thái Linh** - Level Up Your AWS Skills with Cloud Quest and Floci
-- **The Baller** - Hackathon - More like "HA! A tons, of fun"
+- **Tran Minh Quan** – The Hidden Iceberg of a Project: DevOps Before Disaster
+- **Tran Huu Nghia** – A comprehensive astrology platform for the new generation, combining traditional knowledge with modern technology
+- **Pham Quang Thai** – How Cloud Architecture Powers Modern Multiplayer Games
+- **Nguyen Thi Quynh Nhu** – Why We Always Need Confidence
+- **Khac Uy** – The Iceberg of Procrastination When "Laziness" Is Just the Tip of Fear
+- **Huynh Thai Linh** – Level Up Your AWS Skills with Cloud Quest and Floci
+- **The Baller** – Hackathon – More like "HA! A tons, of fun"
 
 ### Key Highlights
 
 #### The Hidden Iceberg of a Project: DevOps Before Disaster
 
-- Challenges and difficulties faced during project execution.
-- Personal experiences on overcoming these obstacles.
-- Lessons learned and practical takeaways.
+- Difficulties encountered while working on the project
+- How the speaker overcame them
+- Lessons learned
 
 #### A comprehensive astrology platform for the new generation, combining traditional knowledge with modern technology
 
-- Introduction to the "Tử Vi Đại Việt" platform.
-- The motivation and reasons for choosing this topic.
-- Key features and functionalities of the website.
-- System architecture, logic, and layer separation.
-- Lessons learned and practical experience gained.
+- Introduction to the Tu Vi Dai Viet website
+- Reasons for choosing this topic
+- Features of the website
+- Architecture, logic, and layers of the website
+- Lessons and experience
 
 #### How Cloud Architecture Powers Modern Multiplayer Games
 
-- Application of Cloud Architecture in Multiplayer Games.
-- Designing high-reliability and low-latency systems.
-- Real-time data synchronization solutions between players.
-*(Detailed content pending for this section)*
+- Applying Cloud Architecture to multiplayer games
+- How to design systems with low latency and high reliability
+- Solutions for real-time data synchronization between players
 
 #### Why We Always Need Confidence
 
-- Confidence is not about ego or perfection; it’s about trying even when you feel nervous.
-- The cost of self-doubt: Missed opportunities, invisible pressure, and hidden potential.
+- Confidence is not ego or perfection, but the courage to try even while feeling anxious.
+- Consequences of lacking confidence: missed opportunities, invisible pressure, hidden talent.
 - Root causes: Imposter Syndrome and the Dunning-Kruger Effect.
-- The power of confidence: Helps build connections, taking ownership, and acting as a bridge to showcase technical skills.
-- How to "Hack" confidence: Thorough preparation, celebrating small wins, and applying the "5-Second Rule".
+- The role of confidence: connecting people, daring to take responsibility, and serving as the bridge that lets technical skills shine.
+- How to "hack" confidence: thorough preparation to reduce fear, celebrating small wins, and applying the "5-Second Rule".
 
 #### The Iceberg of Procrastination When "Laziness" Is Just the Tip of Fear
 
-- The true nature of procrastination: 20-30% is laziness, while 70-80% is hidden fear (fear of not being good enough, judgment, or failure).
-- The cost of waiting (The Guilt Loop): Avoiding tasks -> Temporary relief -> Increased stress -> More procrastination.
-- The solution: Action precedes confidence (Action > Confidence).
-- The 5-Minute Rule: Commit to just 5 minutes of work to build momentum.
-- The "Go Build" spirit: Deploy fast, fix early, and don't wait for perfection.
+- The nature of procrastination: 20-30% is laziness, 70-80% is fear (fear of not being good enough, fear of judgment, fear of failure).
+- The cost of procrastination (The Guilt Loop): avoiding work -> temporary relief -> more stress -> more procrastination.
+- The solution: action creates confidence (Action > Confidence).
+- The 5-Minute Rule: just start for 5 minutes to build momentum.
+- The "Go Build" spirit: deploy quickly, fix errors early, don't wait for perfection.
 
 #### Level Up Your AWS Skills with Cloud Quest and Floci
 
-- Common challenges in learning AWS (fear of unexpected bills, forgetting to delete resources).
-- AWS Cloud Quest: A free, safe, and game-based learning platform for beginners.
-- Open Source Floci: A local AWS service emulator that is fast, free, and lightweight.
-- Effective learning roadmap: Mind & Architecture (Cloud Quest) -> Code & Fast Testing (Floci) -> Real Deployment (Real AWS).
+- Challenges of hands-on AWS learning (cost concerns, forgetting to delete resources).
+- Introducing AWS Cloud Quest: learn AWS through gameplay, free and safe for beginners.
+- Introducing the open-source tool Floci: simulates AWS services locally, free of charge and fast.
+- An effective learning path: Cloud Quest (mindset) -> Floci (fast coding & testing) -> Real AWS (real-world deployment).
 
-#### Hackathon - More like "HA! A tons, of fun"
+#### Hackathon – More like "HA! A tons, of fun"
 
-- What is a Hackathon: A fast-paced event focused on building solutions and prototypes (MVP) within 24-48 hours.
-- Why join: Hands-on learning, building real projects for portfolios, networking, and creative brainstorming.
-- Project experiences: Building SynthHunter (AI Voice Verification) and Vortex (Hiring Workflow).
-- Key learnings: Start with real problems, persist through failures, experiment relentlessly, and utilize available tools.
+- What a hackathon is: an event to solve real-world problems by building a minimum viable product (MVP) in a short time (24-48h).
+- Why participate: learning by doing, real project experience, networking, and creativity.
+- Experience participating in the SynthHunter project (an AI audio classification system) and Vortex (a recruitment system).
+- Lessons learned: start from a real problem, persevere through difficulties, keep experimenting, and make the most of available tools.
 
 ### Event Experience
 
-Attending the "Meeting 30/5" was an incredibly rewarding experience that provided a well-rounded view of both soft skills and technical knowledge:
+Attending the "Meeting 30/5" event was an extremely valuable experience, giving me a more comprehensive view of both soft skills and practical technical knowledge:
 
-- **Learning from experts:** Gained deeper insights into modern cloud architectures and practical project implementations through case studies like "Tử Vi Đại Việt", Hackathons, and Multiplayer Games.
-- **Soft skills development:** Realized the critical importance of confidence, teamwork, and facing fears to overcome procrastination.
-- **Practical technical exposure:** Learned how to optimize AWS learning using Cloud Quest and Floci, and how to approach problems comprehensively through the DevOps iceberg model.
+- **Learning from highly skilled speakers:** Gained a better understanding of modern cloud architectures and how to deploy real-world projects through case studies such as "Tu Vi Dai Viet," the Hackathon, and multiplayer games.
+- **Developing soft skills:** Recognized the importance of confidence, teamwork skills, and especially how to face fear in order to overcome procrastination.
+- **Hands-on technical experience:** Learned how to optimize AWS learning through Cloud Quest and Floci, as well as how to look at a problem holistically before implementation, using DevOps's iceberg model.
 
-
+![Picture meeting 30/5](/images/meeting30-5.png)
