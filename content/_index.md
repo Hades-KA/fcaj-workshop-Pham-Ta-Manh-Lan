@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2026-08-07
+date: 2026-07-20
 weight: 1
 chapter: false
 ---
@@ -18,7 +18,7 @@ chapter: false
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** 22DTHG3
+&emsp; **Class:** AWS042026
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
@@ -26,7 +26,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2026 to 12/07/2026
 
-![Your profile picture](/images/avatar.png)
+<img src="/images/avatar.png" width="450px" style="border-radius: 1px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
 
 ### Report Content
 

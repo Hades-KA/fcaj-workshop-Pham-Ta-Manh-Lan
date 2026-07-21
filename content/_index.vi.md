@@ -1,6 +1,6 @@
 ---
 title: "Báo cáo thực tập"
-date: 2026-08-07
+date: 2026-07-20
 weight: 1
 chapter: false
 ---
@@ -17,7 +17,7 @@ chapter: false
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** 22DTHG3
+&emsp; **Lớp:** AWS042026
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
@@ -25,8 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 12/07/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
-
+<img src="/images/avatar.png" width="450px" style="border-radius: 1px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
 
 
 ### Nội dung báo cáo
