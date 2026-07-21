@@ -25,8 +25,11 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 12/07/2026
 
-<img src="/images/avatar.png" width="450px" style="border-radius: 1px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-
+<img src='{{ "images/avatar.png" | relURL }}'
+     width="450"
+     style="border-radius:1px; margin-top:20px; box-shadow:0 4px 8px rgba(0,0,0,.15);"
+     loading="lazy"
+     alt="Profile photo">
 
 ### Nội dung báo cáo
 
