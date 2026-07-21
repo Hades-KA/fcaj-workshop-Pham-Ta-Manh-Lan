@@ -36,4 +36,3 @@ During my internship, I participated in two events. Each one was a memorable exp
 
 &emsp;**Outcomes:** Deepened technical knowledge of containerization, automated security, and real-time multiplayer architecture; picked up new AI trends around GraphRAG; and gained career and teamwork insights applicable to future projects.
 
-![Picture meeting 13/06](/images/4-Event/meeting13-06.png)
