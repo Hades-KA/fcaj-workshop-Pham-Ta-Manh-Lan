@@ -77,4 +77,7 @@ Attending the "Meeting 06/6" event broadened my perspective on applying advanced
 - **Career direction:** The journey from Helpdesk to Senior Sysadmin was truly inspiring, helping me realize the importance of building capability through real-world projects.
 - **Soft skills:** The principles of effective teamwork are essential tools for complex technology projects.
 
-![Picture meeting 13/06](/images/meeting13-06.png)
+{{< img src="images/meeting13-06.png"
+alt="Ảnh meeting 13/06"
+width="900"
+style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}

@@ -12,7 +12,7 @@ pre: " <b> 5.2. </b> "
         alt="Architecture Diagram"
         width="1100"
         style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
-
+        
 Đây là sơ đồ kiến trúc mà mình cùng các bạn trong nhóm đã triển khai cho dự án LunaGenZ.
 
 ### 2. Các dịch vụ AWS cốt lõi

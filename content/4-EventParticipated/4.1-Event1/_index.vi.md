@@ -88,5 +88,5 @@ Tham gia sự kiện "Meeting 30/5" là một trải nghiệm rất bổ ích, g
 
 {{< img src="images/meeting30-5.png"
 alt="Picture meeting 30/5"
-width="800"
-style="margin:10px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.15);" >}}
+width="1100"
+style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.15);" >}}
