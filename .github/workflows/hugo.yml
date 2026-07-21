@@ -1,37 +1,56 @@
-name: Deploy Hugo site to GitHub Pages
+name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout source code
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # <- Đổi thành recursive để tải đầy đủ theme
+          submodules: recursive
           fetch-depth: 0
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3  # <- Nâng cấp lên v3 bản mới nhất
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"        # <- Để "latest" để tự động lấy bản mới nhất như máy bạn
+          hugo-version: 'latest'
           extended: true
 
-      - name: Build website
-        run: hugo --minify --buildFuture
+      - name: Build with Hugo
+        run: |
+          hugo --minify --buildFuture \
+               --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          force_orphan: true
+          path: ./public
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
