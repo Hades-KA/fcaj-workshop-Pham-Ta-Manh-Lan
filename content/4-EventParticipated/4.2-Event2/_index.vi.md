@@ -79,5 +79,5 @@ Tham gia sự kiện "Meeting 06/6" giúp tôi mở rộng tầm nhìn về vi�
 
 {{< img src="images/meeting13-06.png"
 alt="Ảnh meeting 13/06"
-width="900"
+width="1100"
 style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
