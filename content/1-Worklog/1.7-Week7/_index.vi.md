@@ -13,11 +13,11 @@ pre: " <b> 1.7. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tham gia buổi họp và hoạt động định kỳ tại văn phòng công ty. | 01/06/2026 | 01/06/2026 | |
-| 3 | - Nghiên cứu hướng dẫn cơ bản (Getting Started) và triển khai một web server đơn giản trên Amazon EC2. | 02/06/2026 | 04/06/2026 | |
-| 4 | - Tìm hiểu giải pháp bảo mật trung gian giúp ứng dụng kết nối tài nguyên AWS an toàn thông qua IAM Role. | 03/06/2026 | 05/06/2026 | |
-| 5 | - Trải nghiệm môi trường lập trình trực tuyến trên nền trình duyệt bằng AWS Cloud9. | 04/06/2026 | 05/06/2026 | |
-| 6 | - Thực hành phân phối và lưu trữ web app dạng tĩnh (Static Website Hosting) sử dụng dịch vụ Amazon S3. | 05/06/2026 | 06/06/2026 | |
+| 2 |  Tham gia buổi họp và hoạt động định kỳ tại văn phòng công ty. | 01/06/2026 | 01/06/2026 | |
+| 3 |  Nghiên cứu hướng dẫn cơ bản (Getting Started) và triển khai một web server đơn giản trên Amazon EC2. | 02/06/2026 | 04/06/2026 | |
+| 4 |  Tìm hiểu giải pháp bảo mật trung gian giúp ứng dụng kết nối tài nguyên AWS an toàn thông qua IAM Role. | 03/06/2026 | 05/06/2026 | |
+| 5 |  Trải nghiệm môi trường lập trình trực tuyến trên nền trình duyệt bằng AWS Cloud9. | 04/06/2026 | 05/06/2026 | |
+| 6 |  Thực hành phân phối và lưu trữ web app dạng tĩnh (Static Website Hosting) sử dụng dịch vụ Amazon S3. | 05/06/2026 | 06/06/2026 | |
 
 ### Kết quả đạt được tuần 7:
 * Deploy thành công mã nguồn Web Server lên EC2, cấu hình Inbound Rules cho phép người dùng bên ngoài truy cập qua cổng HTTP (Port 80).

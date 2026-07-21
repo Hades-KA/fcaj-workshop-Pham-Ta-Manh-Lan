@@ -14,11 +14,11 @@ pre: " <b> 1.1. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 6 | - Phối hợp kết nối các thành viên để thảo luận và thành lập nhóm thực tập chính thức. | 17/04/2026 | 18/04/2026 | |
-| 2 | - Tổ chức họp khởi động dự án LunaGenZ, thảo luận các định hướng và đề xuất ý tưởng sơ khởi. | 20/04/2026 | 20/04/2026 | |
-| 3 | - Thiết lập tài khoản trên các nền tảng quản lý nhóm; nghiên cứu tổng quan về hạ tầng AWS. | 20/04/2026 | 22/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | - Nghiên cứu lý thuyết mạng và thực hành vẽ mô hình kiến trúc hệ thống cloud trên draw.io. | 21/04/2026 | 23/04/2026 | |
-| 5 | - Theo dõi và tiếp thu kiến thức từ buổi Workshop chuyên đề AWS phát trên kênh YouTube của doanh nghiệp. | 23/04/2026 | 23/04/2026 | |
+| 6 |  Phối hợp kết nối các thành viên để thảo luận và thành lập nhóm thực tập chính thức. | 17/04/2026 | 18/04/2026 | |
+| 2 |  Tổ chức họp khởi động dự án LunaGenZ, thảo luận các định hướng và đề xuất ý tưởng sơ khởi. | 20/04/2026 | 20/04/2026 | |
+| 3 |  Thiết lập tài khoản trên các nền tảng quản lý nhóm; nghiên cứu tổng quan về hạ tầng AWS. | 20/04/2026 | 22/04/2026 | https://cloudjourney.awsstudygroup.com |
+| 4 |  Nghiên cứu lý thuyết mạng và thực hành vẽ mô hình kiến trúc hệ thống cloud trên draw.io. | 21/04/2026 | 23/04/2026 | |
+| 5 |  Theo dõi và tiếp thu kiến thức từ buổi Workshop chuyên đề AWS phát trên kênh YouTube của doanh nghiệp. | 23/04/2026 | 23/04/2026 | |
 
 ### Kết quả đạt được tuần 1:
 * Hoàn thành việc thành lập nhóm thực tập và đồng bộ các kênh liên lạc (zalo/Discord).

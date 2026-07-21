@@ -14,11 +14,11 @@ pre: " <b> 1.11. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Rà soát lại toàn bộ cấu hình Live trên AWS, tối ưu hóa hiệu năng hệ thống LunaGenZ trước khi viết báo cáo. | 29/06/2026 | 01/07/2026 | |
-| 3 | - Sử dụng bộ giả lập đám mây cục bộ Floci (AWS emulator chạy trên cổng 4566) để thực hiện kiểm thử luồng tích hợp (API Gateway, Lambda, S3, DynamoDB) và debug tính năng xuất file PDF ngay tại Localhost mà không tốn chi phí tài nguyên thật. | 30/06/2026 | 30/06/2026 |https://github.com/floci-io |
-| 4 | - Trích xuất các dữ liệu thực tế và chụp màn hình cấu hình AWS (Security Groups, Route Table, Gateway) làm phụ lục báo cáo. | 01/07/2026 | 03/07/2026 | |
-| 5 | - Tổng hợp phần nội dung báo cáo cá nhân và rà soát tính đồng bộ với phần tài liệu của các thành viên khác. | 02/07/2026 | 03/07/2026 | |
-| 6 | - Phác thảo cấu trúc thư mục và chuẩn bị các file Markdown (.md) cho nội dung trang Workshop cá nhân. | 03/07/2026 | 04/07/2026 | |
+| 2 |  Rà soát lại toàn bộ cấu hình Live trên AWS, tối ưu hóa hiệu năng hệ thống LunaGenZ trước khi viết báo cáo. | 29/06/2026 | 01/07/2026 | |
+| 3 |  Sử dụng bộ giả lập đám mây cục bộ Floci (AWS emulator chạy trên cổng 4566) để thực hiện kiểm thử luồng tích hợp (API Gateway, Lambda, S3, DynamoDB) và debug tính năng xuất file PDF ngay tại Localhost mà không tốn chi phí tài nguyên thật. | 30/06/2026 | 30/06/2026 |https://github.com/floci-io |
+| 4 |  Trích xuất các dữ liệu thực tế và chụp màn hình cấu hình AWS (Security Groups, Route Table, Gateway) làm phụ lục báo cáo. | 01/07/2026 | 03/07/2026 | |
+| 5 |  Tổng hợp phần nội dung báo cáo cá nhân và rà soát tính đồng bộ với phần tài liệu của các thành viên khác. | 02/07/2026 | 03/07/2026 | |
+| 6 |  Phác thảo cấu trúc thư mục và chuẩn bị các file Markdown (.md) cho nội dung trang Workshop cá nhân. | 03/07/2026 | 04/07/2026 | |
 
 ### Kết quả đạt được tuần 11:
 * Sử dụng thành thạo bộ giả lập Floci để test luồng dịch vụ cục bộ, giúp phát hiện nhanh các lỗi định tuyến dữ liệu giữa API và Lambda mà không làm phát sinh chi phí lab AWS.

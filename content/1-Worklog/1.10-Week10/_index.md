@@ -14,11 +14,11 @@ pre: " <b> 1.10. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Actively starting the final development phase of the LunaGenZ Numerology application. | 22/06/2026 | 24/06/2026 | |
-| 3 | - Implementing the client-side user interface (Frontend) and coding business logic operations on Localhost. | 23/06/2026 | 25/06/2026 | |
-| 4 | - Constructing the system function that automatically renders data to a downloadable PDF document. | 24/06/2026 | 26/06/2026 | |
-| 5 | - Running comprehensive functional checks on the local testing build to secure seamless operations. | 25/06/2026 | 26/06/2026 | |
-| 6 | - Launching application structures (both Frontend and Backend) to the AWS Serverless cloud. | 26/06/2026 | 27/06/2026 | |
+| 2 |  Actively starting the final development phase of the LunaGenZ Numerology application. | 22/06/2026 | 24/06/2026 | |
+| 3 |  Implementing the client-side user interface (Frontend) and coding business logic operations on Localhost. | 23/06/2026 | 25/06/2026 | |
+| 4 |  Constructing the system function that automatically renders data to a downloadable PDF document. | 24/06/2026 | 26/06/2026 | |
+| 5 |  Running comprehensive functional checks on the local testing build to secure seamless operations. | 25/06/2026 | 26/06/2026 | |
+| 6 |  Launching application structures (both Frontend and Backend) to the AWS Serverless cloud. | 26/06/2026 | 27/06/2026 | |
 
 ### Week 10 Achievements:
 * Delivered user-friendly numeric form dashboards for LunaGenZ, validating internal indexing mathematical calculation logic on localhost.

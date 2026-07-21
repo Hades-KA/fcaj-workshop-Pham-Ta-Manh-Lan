@@ -14,12 +14,12 @@ pre: " <b> 1.12 </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tiến hành ghép nối báo cáo cá nhân vào tài liệu tổng của nhóm, căn chỉnh định dạng (formatting) chuẩn quy định. | 06/07/2026 | 08/07/2026 | Báo cáo hoàn chỉnh |
-| 3 | - Đóng gói mã nguồn dự án LunaGenZ, kiểm tra và bảo trì hệ thống chạy trực tiếp trên AWS để chuẩn bị nghiệm thu. | 07/07/2026 | 09/07/2026 | GitHub & AWS |
-| 4 | - Biên soạn chi tiết các trang hướng dẫn Markdown cho website Workshop cá nhân và chạy thử nghiệm cục bộ. | 08/07/2026 | 10/07/2026 | Nền tảng Hugo / Static Site |
-| 5 | - Triển khai thực tế website Workshop cá nhân lên cloud, rà soát lại toàn bộ liên kết (links) và giao diện. | 09/07/2026 | 11/07/2026 | AWS S3 / CloudFront |
-| 6 | - Chuẩn bị slide thuyết trình, kịch bản demo sản phẩm LunaGenZ và hoàn thiện phiếu tự đánh giá thực tập. | 10/07/2026 | 11/07/2026 | Slide mẫu & Biểu mẫu trường |
-| 8 | - Thực hiện nộp báo cáo tổng hợp, phiếu đánh giá đã ký và cập nhật link website Workshop cá nhân lên hệ thống công ty. | 12/07/2026 | 12/07/2026 | Cổng thông tin nội bộ |
+| 2 |  Tiến hành ghép nối báo cáo cá nhân vào tài liệu tổng của nhóm, căn chỉnh định dạng (formatting) chuẩn quy định. | 06/07/2026 | 08/07/2026 | |
+| 3 |  Đóng gói mã nguồn dự án LunaGenZ, kiểm tra và bảo trì hệ thống chạy trực tiếp trên AWS để chuẩn bị nghiệm thu. | 07/07/2026 | 09/07/2026 |  |
+| 4 |  Biên soạn chi tiết các trang hướng dẫn Markdown cho website Workshop cá nhân và chạy thử nghiệm cục bộ. | 08/07/2026 | 10/07/2026 | |
+| 5 |  Triển khai thực tế website Workshop cá nhân lên cloud, rà soát lại toàn bộ liên kết (links) và giao diện. | 09/07/2026 | 11/07/2026 | |
+| 6 |  Chuẩn bị slide thuyết trình, kịch bản demo sản phẩm LunaGenZ và hoàn thiện phiếu tự đánh giá thực tập. | 10/07/2026 | 11/07/2026 |  |
+| 8 |  Thực hiện nộp báo cáo tổng hợp, phiếu đánh giá đã ký và cập nhật link website Workshop cá nhân lên hệ thống công ty. | 12/07/2026 | 12/07/2026 | |
 
 ### Kết quả đạt được tuần 12:
 * Hoàn thành 100% cuốn Báo cáo thực tập tốt nghiệp được kiểm duyệt chất lượng cao, căn chỉnh lề và tiêu chuẩn học thuật chính xác.

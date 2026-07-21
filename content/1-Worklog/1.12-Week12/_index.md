@@ -14,12 +14,12 @@ pre: " <b> 1.12. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2   | - Integrating individual report contributions into the master team document and adjusting standard formatting styles. | 06/07/2026 | 08/07/2026 | Finalized Report |
-| 3   | - Archiving the LunaGenZ repository and performing final maintenance on the live AWS system for review. | 07/07/2026 | 09/07/2026 | GitHub & AWS |
-| 4   | - Authoring extensive step-by-step Markdown guides on the personal Workshop site and running local preview tests. | 08/07/2026 | 10/07/2026 | Hugo Engine / Static Site |
-| 5   | - Deploying the individual Workshop website to cloud hosting; auditing all active URLs and responsive layout. | 09/07/2026 | 11/07/2026 | AWS S3 / CloudFront |
-| 6   | - Formulating the presentation slides, drafting the product demo script, and completing academic internship evaluation forms. | 10/07/2026 | 11/07/2026 | Slide templates & Evaluation forms |
-| 8   | - Uploading all approved documentation along with the live individual Workshop URL link to the company platform. | 12/07/2026 | 12/07/2026 | Internal Portal |
+| 2   |  Integrating individual report contributions into the master team document and adjusting standard formatting styles. | 06/07/2026 | 08/07/2026 | Finalized Report |
+| 3   |  Archiving the LunaGenZ repository and performing final maintenance on the live AWS system for review. | 07/07/2026 | 09/07/2026 | GitHub & AWS |
+| 4   |  Authoring extensive step-by-step Markdown guides on the personal Workshop site and running local preview tests. | 08/07/2026 | 10/07/2026 | Hugo Engine / Static Site |
+| 5   |  Deploying the individual Workshop website to cloud hosting; auditing all active URLs and responsive layout. | 09/07/2026 | 11/07/2026 | AWS S3 / CloudFront |
+| 6   |  Formulating the presentation slides, drafting the product demo script, and completing academic internship evaluation forms. | 10/07/2026 | 11/07/2026 | Slide templates & Evaluation forms |
+| 8   |  Uploading all approved documentation along with the live individual Workshop URL link to the company platform. | 12/07/2026 | 12/07/2026 | Internal Portal |
 
 ### Week 12 Achievements:
 * Finalized the master Graduation Report document with consistent styles, academic margins, and clean indexes.

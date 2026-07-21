@@ -13,11 +13,11 @@ pre: " <b> 1.3. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Nghiên cứu Module 01-Lab09: Tìm hiểu chi tiết các gói AWS Support và quy trình xử lý sự cố. | 04/05/2026 | 05/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | - Thực hành Module 01-Lab09: Phương thức cập nhật, gửi và theo dõi các Ticket hỗ trợ trên AWS. | 05/05/2026 | 06/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | - Tiếp cận phần Module 02-01: Lý thuyết nền tảng về hệ thống mạng ảo Amazon VPC. | 06/05/2026 | 08/05/2026 | https://www.youtube.com/watch?v=O9Ac_vGHquM&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=25 |
-| 5 | - Tiến hành xây dựng và cấu hình thử nghiệm VPC trực tiếp trên AWS Console. | 07/05/2026 | 09/05/2026 | https://000003.awsstudygroup.com/vi/ |
-| 6 | - Học phần Module 02-02: Các giải pháp bảo mật trong VPC và mô hình mạng Multi-VPC. | 08/05/2026 | 09/05/2026 | https://www.youtube.com/watch?v=BPuD112hEQ4&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=26 |
+| 2 |  Nghiên cứu Module 01-Lab09: Tìm hiểu chi tiết các gói AWS Support và quy trình xử lý sự cố. | 04/05/2026 | 05/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 3 |  Thực hành Module 01-Lab09: Phương thức cập nhật, gửi và theo dõi các Ticket hỗ trợ trên AWS. | 05/05/2026 | 06/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 4 |  Tiếp cận phần Module 02-01: Lý thuyết nền tảng về hệ thống mạng ảo Amazon VPC. | 06/05/2026 | 08/05/2026 | https://www.youtube.com/watch?v=O9Ac_vGHquM&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=25 |
+| 5 |  Tiến hành xây dựng và cấu hình thử nghiệm VPC trực tiếp trên AWS Console. | 07/05/2026 | 09/05/2026 | https://000003.awsstudygroup.com/vi/ |
+| 6 |  Học phần Module 02-02: Các giải pháp bảo mật trong VPC và mô hình mạng Multi-VPC. | 08/05/2026 | 09/05/2026 | https://www.youtube.com/watch?v=BPuD112hEQ4&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=26 |
 
 ### Kết quả đạt được tuần 3:
 * Hiểu rõ sự khác biệt giữa các gói hỗ trợ (Basic, Developer, Business, Enterprise) trên AWS.

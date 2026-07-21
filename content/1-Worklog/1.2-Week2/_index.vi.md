@@ -13,9 +13,9 @@ pre: " <b> 1.2. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 6 | - Khởi tạo tài khoản AWS cá nhân và cấu hình các lớp bảo mật cơ bản (MFA, chính sách mật khẩu). | 24/04/2026 | 25/04/2026 | |
-| 2 | - Triển khai học phần Module 01: Thực hành các bài Lab01 đến Lab03 theo hướng dẫn. | 27/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | - Tiếp tục nghiên cứu Module 01: Hoàn thành bài Lab04 đến Lab07 qua tài liệu video của công ty. | 28/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
+| 6 |  Khởi tạo tài khoản AWS cá nhân và cấu hình các lớp bảo mật cơ bản (MFA, chính sách mật khẩu). | 24/04/2026 | 25/04/2026 | |
+| 2 |  Triển khai học phần Module 01: Thực hành các bài Lab01 đến Lab03 theo hướng dẫn. | 27/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
+| 3 |  Tiếp tục nghiên cứu Module 01: Hoàn thành bài Lab04 đến Lab07 qua tài liệu video của công ty. | 28/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
 
 ### Kết quả đạt được tuần 2:
 * Đăng ký thành công tài khoản AWS Free Tier và thiết lập bảo mật Multi-Factor Authentication (MFA) cho tài khoản Root.
