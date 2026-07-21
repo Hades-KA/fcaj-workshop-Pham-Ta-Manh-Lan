@@ -21,7 +21,7 @@ pre: " <b> 1.1. </b> "
 | 5 | - Streaming the AWS technology workshop streamed on the company's official YouTube channel. | 23/04/2026 | 23/04/2026 | |
 
 ### Week 1 Achievements:
-* Successfully established the internship working group and synced communication channels (Slack/Discord/Trello).
+* Successfully established the internship working group and synced communication channels (zalo/Discord).
 * Mastered core cloud computing concepts and AWS's main service categories (Compute, Storage, Networking, Database).
 * Acquired familiarity with the AWS Console interface, enabling quick service navigation.
 * Installed Draw.io successfully and designed a foundational network architecture model.

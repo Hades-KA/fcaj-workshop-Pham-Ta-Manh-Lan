@@ -21,7 +21,7 @@ pre: " <b> 1.1. </b> "
 | 5 | - Theo dõi và tiếp thu kiến thức từ buổi Workshop chuyên đề AWS phát trên kênh YouTube của doanh nghiệp. | 23/04/2026 | 23/04/2026 | |
 
 ### Kết quả đạt được tuần 1:
-* Hoàn thành việc thành lập nhóm thực tập và đồng bộ các kênh liên lạc (Slack/Discord/Trello).
+* Hoàn thành việc thành lập nhóm thực tập và đồng bộ các kênh liên lạc (zalo/Discord).
 * Nắm vững các khái niệm điện toán đám mây cốt lõi và các phân nhóm dịch vụ chính của AWS (Compute, Storage, Networking, Database).
 * Làm quen với giao diện AWS Console, biết cách điều hướng và tìm kiếm dịch vụ nhanh chóng.
 * Cài đặt thành công công cụ vẽ sơ đồ Draw.io và thiết kế được mô hình kiến trúc hạ tầng mạng cơ bản.
