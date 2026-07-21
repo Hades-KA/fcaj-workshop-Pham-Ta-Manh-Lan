@@ -24,7 +24,7 @@ During my internship, I participated in two events. Each one was a memorable exp
 ---
 
 ### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** Meeting 13/6  
+&emsp;**Event Name:** Meeting 06/6  
 
 &emsp;**Date & Time:** June 6, 2026  
 
@@ -36,7 +36,4 @@ During my internship, I participated in two events. Each one was a memorable exp
 
 &emsp;**Outcomes:** Deepened technical knowledge of containerization, automated security, and real-time multiplayer architecture; picked up new AI trends around GraphRAG; and gained career and teamwork insights applicable to future projects.
 
-{{< img src="images/meeting13-06.png"
-alt="Ảnh meeting 13/06"
-width="900"
-style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
+![Picture meeting 13/06](/images/4-Event/meeting13-06.png)

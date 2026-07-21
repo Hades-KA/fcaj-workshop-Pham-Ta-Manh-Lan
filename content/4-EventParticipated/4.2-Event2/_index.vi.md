@@ -77,7 +77,7 @@ Tham gia sự kiện "Meeting 06/6" giúp tôi mở rộng tầm nhìn về vi�
 - **Định hướng nghề nghiệp:** Câu chuyện từ Helpdesk lên Senior Sysadmin đã truyền cảm hứng rất lớn, giúp tôi nhận ra tầm quan trọng của việc xây dựng năng lực qua các dự án thực tế.
 - **Kỹ năng mềm:** Các quy tắc về làm việc nhóm hiệu quả là hành trang không thể thiếu trong các dự án công nghệ phức tạp.
 
-{{< img src="images/events/meeting13-06.png"
+{{< img src="images/5-Workshop/meeting13-06.png"
 alt="Ảnh meeting 13/06"
 width="900"
 style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
