@@ -1,16 +1,16 @@
-{{- $src := .Get "src" | default "" -}}
-{{- if not $src -}}
-  {{- errorf "img shortcode: missing param 'src' in %s" .Page.Path -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $width := .Get "width" -}}
+{{- $style := .Get "style" -}}
+{{- $class := .Get "class" -}}
+
+{{- $url := $src -}}
+{{- if not (urls.Parse $src).Scheme -}}
+  {{- $url = $src | relURL -}}
 {{- end -}}
-{{- $isExternal := or (hasPrefix $src "http://") (hasPrefix $src "https://") -}}
-{{- $clean := strings.TrimPrefix $src "/" -}}
-{{- $url := cond $isExternal $src ($clean | absURL) -}}
-<img
-  src="{{ $url | safeURL }}"
-  alt="{{ .Get "alt" | default "image" }}"
-  {{ with .Get "width" }}width="{{ . }}"{{ end }}
-  {{ with .Get "height" }}height="{{ . }}"{{ end }}
-  {{ with .Get "class" }}class="{{ . }}"{{ end }}
-  {{ with .Get "style" }}style="{{ . }}"{{ end }}
-  loading="{{ .Get "loading" | default "lazy" }}"
-/>
+
+<img src="{{ $url }}"
+     {{ with $alt }}alt="{{ . }}"{{ end }}
+     {{ with $width }}width="{{ . }}"{{ end }}
+     {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
+     {{ with $class }}class="{{ . }}"{{ end }} />

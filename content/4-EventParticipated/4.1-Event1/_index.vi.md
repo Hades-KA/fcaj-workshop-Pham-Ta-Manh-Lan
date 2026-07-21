@@ -86,7 +86,7 @@ Tham gia sự kiện "Meeting 30/5" là một trải nghiệm rất bổ ích, g
 - **Phát triển kỹ năng mềm:** Nhận ra tầm quan trọng của sự tự tin, kỹ năng làm việc nhóm, và đặc biệt là cách đối mặt với nỗi sợ hãi để vượt qua sự trì hoãn.
 - **Trải nghiệm kỹ thuật thực tế:** Học được cách tối ưu hóa việc học AWS qua Cloud Quest, Floci, cũng như cách nhìn nhận toàn diện vấn đề trước khi bắt tay vào triển khai thông qua mô hình tảng băng trôi của DevOps.
 
-{{< img src="images/events/meeting30-5.png"
+{{< img src="images/meeting30-5.png"
 alt="Picture meeting 30/5"
 width="800"
 style="margin:10px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.15);" >}}

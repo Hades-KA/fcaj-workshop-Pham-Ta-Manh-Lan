@@ -35,3 +35,8 @@ During my internship, I participated in two events. Each one was a memorable exp
 &emsp;**Content & Activities:** Deep-dive sessions on Docker containerization, combining AWS WAF with Machine Learning for attack detection, building multiplayer games with Godot and AWS WebSockets, effective teamwork practices, a career journey from IT Helpdesk to Senior Sysadmin, and building GraphRAG applications with Amazon Bedrock and Neptune.
 
 &emsp;**Outcomes:** Deepened technical knowledge of containerization, automated security, and real-time multiplayer architecture; picked up new AI trends around GraphRAG; and gained career and teamwork insights applicable to future projects.
+
+{{< img src="images/meeting13-06.png"
+alt="Ảnh meeting 13/06"
+width="900"
+style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
