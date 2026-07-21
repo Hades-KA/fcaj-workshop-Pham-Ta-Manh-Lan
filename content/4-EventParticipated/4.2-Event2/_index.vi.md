@@ -70,14 +70,11 @@ pre: " <b> 4.2. </b> "
 
 ### Trải nghiệm trong event
 
-Tham gia sự kiện "Meeting 06/6" giúp tôi mở rộng tầm nhìn về việc kết hợp các công nghệ Cloud tiên tiến vào thực tiễn:
+Tham gia sự kiện "Meeting 06/6" giúp tôi mở rộng tầm nhìn về việc kết hợp các công nghệ Cloud tiên tiến vào thực tễn:
 
 - **Kiến thức kỹ thuật chuyên sâu:** Tôi đã học được cách kết hợp Machine Learning với AWS WAF để bảo mật tự động, cách triển khai game nhiều người chơi bằng WebSocket trên AWS và sự khác biệt rõ rệt giữa Docker và máy ảo truyền thống.
 - **Cập nhật xu hướng AI:** Hiểu được sức mạnh của GraphRAG trong việc nâng cao khả năng phân tích và trả lời của AI nhờ vào Amazon Bedrock và Neptune.
 - **Định hướng nghề nghiệp:** Câu chuyện từ Helpdesk lên Senior Sysadmin đã truyền cảm hứng rất lớn, giúp tôi nhận ra tầm quan trọng của việc xây dựng năng lực qua các dự án thực tế.
 - **Kỹ năng mềm:** Các quy tắc về làm việc nhóm hiệu quả là hành trang không thể thiếu trong các dự án công nghệ phức tạp.
 
-{{< img src="images/5-Workshop/meeting2.png"
-alt="Ảnh meeting 13/06"
-width="900"
-style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
+![Ảnh meeting 13/06](/images/meeting13-06.png)

@@ -8,10 +8,7 @@ pre: " <b> 5.2. </b> "
 
 ### 1. Sơ đồ kiến trúc
 
-{{< img src="images/5-Workshop/architecture.png"
-        alt="Architecture Diagram"
-        width="1100"
-        style="margin:16px auto; display:block; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,.12);" >}}
+![Architecture Diagram](/images/architecture.png)
 
 Đây là sơ đồ kiến trúc mà mình cùng các bạn trong nhóm đã triển khai cho dự án LunaGenZ.
 
