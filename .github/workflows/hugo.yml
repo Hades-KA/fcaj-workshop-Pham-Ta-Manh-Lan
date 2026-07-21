@@ -16,13 +16,13 @@ jobs:
       - name: Checkout source code
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive  # <- Đổi thành recursive để tải đầy đủ theme
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3  # <- Nâng cấp lên v3 bản mới nhất
         with:
-          hugo-version: "0.134.3"
+          hugo-version: "latest"        # <- Để "latest" để tự động lấy bản mới nhất như máy bạn
           extended: true
 
       - name: Build website
@@ -33,5 +33,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages # <- đảm bảo đúng tên nhánh bạn dùng để deploy
-          force_orphan: true # <- đảm bảo xóa lịch sử cũ ở nhánh gh-pages (giảm lỗi)
+          publish_branch: gh-pages
+          force_orphan: true
