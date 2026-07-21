@@ -1,7 +1,6 @@
-config.toml
 baseURL = "https://hades-ka.github.io/fcaj-workshop-PhamTaManhLan/"
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
