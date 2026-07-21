@@ -1,8 +1,27 @@
+{{/* Robust image shortcode
+   Cách dùng:
+   {{< img src="images/meeting13-06.png"
+           alt="Caption"
+           width="900"
+           style="margin:16px auto;display:block" >}}
+*/}}
+
+{{- $src := .Get "src" | default "" -}}
+{{- if not $src -}}
+  {{- errorf "img shortcode: missing param 'src' in %s" .Page.Path -}}
+{{- end -}}
+
+{{- /* Link ngoài thì giữ nguyên; link nội bộ thì bỏ dấu "/" đầu nếu có rồi relURL để thêm basePath của site */ -}}
+{{- $isExternal := or (hasPrefix $src "http://") (or (hasPrefix $src "https://") (hasPrefix $src "//")) -}}
+{{- $clean := strings.TrimPrefix $src "/" -}}
+{{- $url := cond $isExternal $src ($clean | relURL) -}}
+
 <img
-  src='{{ (.Get "src") | relURL }}'
-  alt='{{ .Get "alt" | default "image" }}'
+  src="{{ $url | safeURL }}"
+  alt="{{ .Get "alt" | default "image" }}"
   {{ with .Get "width" }}width="{{ . }}"{{ end }}
   {{ with .Get "height" }}height="{{ . }}"{{ end }}
+  {{ with .Get "class" }}class="{{ . }}"{{ end }}
   {{ with .Get "style" }}style="{{ . }}"{{ end }}
-  loading="lazy"
+  loading="{{ .Get "loading" | default "lazy" }}"
 />
