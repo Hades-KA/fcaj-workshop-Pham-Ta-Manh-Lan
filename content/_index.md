@@ -5,7 +5,6 @@ weight: 1
 chapter: false
 ---
 
-    
 # Internship Report
 ### Student Information:
 &emsp; **Full Name:** Pham Ta Manh Lan
@@ -26,11 +25,10 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2026 to 12/07/2026
 
-<img src='{{ "images/avatar.png" | relURL }}'
-     width="450"
-     style="border-radius:1px; margin-top:20px; box-shadow:0 4px 8px rgba(0,0,0,.15);"
-     loading="lazy"
-     alt="Profile photo">
+{{< img src="images/avatar.png"
+        width="450"
+        style="border-radius:1px; margin-top:20px; box-shadow:0 4px 8px rgba(0,0,0,.15);"
+        alt="Profile photo" >}}
 
 ### Report Content
 
