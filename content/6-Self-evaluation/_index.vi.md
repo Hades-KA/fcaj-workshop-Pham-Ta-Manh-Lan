@@ -7,7 +7,6 @@ pre: " <b> 6. </b> "
 ---
 
 Trong suốt thời gian thực tập tại **First Cloud AI Journey – Workforce Bootcamp 2026** từ **17/04/2026** đến **12/07/2026**, em đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
-Em đã tham gia làm từ Software Engineer lên thành **DevOps**, qua đó cải thiện kỹ năng ** lập trình, phân tích, viết báo cáo, giao tiếp, vẽ sơ đồ, bước đầu để làm 1 dự án bằng serverless,... **.  
 
 Về tác phong, em luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
 
@@ -16,7 +15,7 @@ Về tác phong, em luôn cố gắng hoàn thành tốt nhiệm vụ, tuân th�
 
 | STT | Tiêu chí                            | Mô tả                                                                                            | Tốt | Khá | Trung bình |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | --- | --- | ---------- |
-| 1   | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ✅  | ☐   | ☐          |
+| 1   | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ☐  | ✅   | ☐          |
 | 2   | **Khả năng học hỏi**                | Tiếp thu kiến thức mới, học hỏi nhanh                                                            | ☐   | ✅   | ☐          |
 | 3   | **Chủ động**                        | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn                                                  | ✅  | ☐   | ☐          |
 | 4   | **Tinh thần trách nhiệm**           | Hoàn thành công việc đúng hạn, đảm bảo chất lượng                                                | ✅  | ☐   | ☐          |
@@ -27,7 +26,7 @@ Về tác phong, em luôn cố gắng hoàn thành tốt nhiệm vụ, tuân th�
 | 9   | **Ứng xử chuyên nghiệp**            | Tôn trọng đồng nghiệp, đối tác, môi trường làm việc                                              | ☐   | ✅   | ☐          |
 | 10  | **Tư duy giải quyết vấn đề**        | Nhận diện vấn đề, đề xuất giải pháp, sáng tạo                                                    | ☐   | ✅   | ☐          |
 | 11  | **Đóng góp vào dự án/tổ chức**      | Hiệu quả công việc, sáng kiến cải tiến, ghi nhận từ team                                         | ☐   | ✅   | ☐          |
-| 12  | **Tổng thể**                        | Đánh giá chung về toàn bộ quá trình thực tập                                                     | ✅  | ☐   | ☐          |
+| 12  | **Tổng thể**                        | Đánh giá chung về toàn bộ quá trình thực tập                                                     | ☐  | ✅   | ☐          |
 
 ### Cần cải thiện
 

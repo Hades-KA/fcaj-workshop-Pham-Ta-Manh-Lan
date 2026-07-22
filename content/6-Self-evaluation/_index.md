@@ -7,7 +7,6 @@ pre: " <b> 6. </b> "
 ---
 
 During my internship at **First Cloud AI Journey – Workforce Bootcamp 2026** from **17/04/2026** to **12/07/2026**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in transitioning from a Software Engineer to **DevOps**, through which I improved my skills in **programming, analysis, report writing, communication, diagramming, and taking the first steps to build a serverless project**.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
 
@@ -15,7 +14,7 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 
 | No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
+| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ☐    | ✅    | ☐       |
 | 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
 | 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
 | 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
@@ -26,7 +25,7 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 | 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ☐    | ✅    | ☐       |
 | 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
 | 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ☐    | ✅    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ☐    | ✅    | ☐       |
 
 ### Needs Improvement
 
