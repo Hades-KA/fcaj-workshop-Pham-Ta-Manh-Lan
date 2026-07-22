@@ -13,9 +13,9 @@ pre: " <b> 1.2. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 6 |  Generating a personal AWS account and implementing primary security configurations. | 24/04/2026 | 25/04/2026 | |
-| 2 |  Starting Module 01: Conducting practical hands-on exercises from Lab 01 to Lab 03. | 27/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 |  Continuing with Module 01: Undertaking Labs 04 through 07 using corporate learning videos. | 28/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 |  Generating a personal AWS account and implementing primary security configurations. | 24/04/2026 | 25/04/2026 | |
+| 3 |  Starting Module 01: Conducting practical hands-on exercises from Lab 01 to Lab 03. | 27/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
+| 4 |  Continuing with Module 01: Undertaking Labs 04 through 07 using corporate learning videos. | 28/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
 
 ### Week 2 Achievements:
 * Registered successfully for an AWS Free Tier account and set up Multi-Factor Authentication (MFA) for the Root user.
